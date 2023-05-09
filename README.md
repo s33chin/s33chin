@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shane Chin</h1>
 <h3 align="center">A passionate DevOps Engineer from Jamaica.</h3>
 
-<img align="right" alt="coding" width="500" scr="![image](https://github.com/s33chin/s33chin/assets/121784741/158c8ee4-7def-4d6e-8ef5-9551debc8ad9)
-">
+<img align="right" alt="coding" width="500" scr="https://github.com/s33chin/s33chin/assets/121784741/158c8ee4-7def-4d6e-8ef5-9551debc8ad9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s33chin&label=Profile%20views&color=0e75b6&style=flat" alt="s33chin" /> </p>
 
