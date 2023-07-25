@@ -10,6 +10,7 @@
 - 📫 How to reach me **shane.chin97@yahoo.com**
 
 - 📄 Know about my experiences [https://resume.io/r/5fknEUF4e](https://resume.io/r/5fknEUF4e)
+- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 - ⚡ Fun fact **I think I'm funny 😅**
 
