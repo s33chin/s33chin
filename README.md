@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shane.chin97@yahoo.com**
 
-- 📄 Know about my experiences [https://tomato-twyla-76.tiiny.site](https://tomato-twyla-76.tiiny.site)
+- 📄 Know about my experiences [https://tomato-twyla-76.tiiny.site](https://shaneresume.tiiny.site)
 
 - ⚡ Fun fact **I think I'm funny 😅**
 
