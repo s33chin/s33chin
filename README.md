@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shane Chin</h1>
-<h3 align="center">A passionate DevOps Engineer from Jamaica.</h3>
+<h1 align="center">Hi 👋, I'm Shane</h1>
+<h3 align="center">A passionate AI Engineer from Jamaica.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/s33chin/s33chin/assets/121784741/891c02fc-fa2e-4fa5-8e00-79fcafb1f5dd">
 
