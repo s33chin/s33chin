@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s33chin&label=Profile%20views&color=0e75b6&style=flat" alt="s33chin" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and Flutter**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **shane.chin97@yahoo.com**
 
