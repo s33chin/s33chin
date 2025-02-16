@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **shane.chin97@yahoo.com**
-
 - ⚡ Fun fact **I think I'm funny 😅**
 
 <h3 align="left">Connect with me:</h3>
